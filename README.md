@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋, Eu sou a Nágela Machado</h1>
 <h3 align="center">Sou apaixonada por Análise e Ciência de Dados</h3>
 
-- 🌱 Atualmente estou estudando **Python, Machine learning, Deep Learning**
+- 🌱 Atualmente estou estudando **Python, Machine Learning, Deep Learning**
 
 - 💬 Me pergunte sobre **Power BI, Sql, Excel, R, Python**
 
