@@ -2,13 +2,13 @@
 <h1 align="center">Olá 👋, Eu sou a Nágela Machado</h1>
 <h3 align="center">Sou apaixonada por Análise e Ciência de Dados</h3>
 
-- 🌱 Atualmente estou estudando **Python, Machine Learning, Deep Learning**
+- 🌱 Atualmente trabalho como **Cientista de Dados no Sicredi**
 
 - 💬 Me pergunte sobre **Power BI, Sql, Excel, R, Python**
 
-- 📫 Contate-me via **nageladsm@gmail.com**
+- 📫 Contate-me via **estatistica.nagela@gmail.com**
 
-- 📄 Minhas experiências profissionais: [https://www.linkedin.com/in/nágela-machado-4a0567aa](https://www.linkedin.com/in/nágela-machado-4a0567aa)
+- 📄 Minhas experiências profissionais: [https://www.linkedin.com/in/nagela-machado/](https://www.linkedin.com/in/nagela-machado/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
